@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Python environments
+.venv/
+.python-version
+
